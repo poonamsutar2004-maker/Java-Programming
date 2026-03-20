@@ -5,6 +5,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="com/java/Experiment2/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/mysql-connector-j-9.6.0 (1)/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
